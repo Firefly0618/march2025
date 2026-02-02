@@ -38,12 +38,42 @@ export default function AboutMePage() {
             </div>
             <hr></hr>
             <div className="flex flex-wrap">
-                <h6 className="text-4xl text-center">Important things to my life</h6>
+                <h6 className="text-4xl text-center">The Periodic Table and Periodic Law</h6>
                 <img src="https://tse4.mm.bing.net/th/id/OIP.Ia3dqYo0pQArdg_pQS-WMAHaE7?rs=1&pid=ImgDetMain" alt="$$$" width="500" height="300"></img>
-                <p className="text-center">Money is important, money can buy most things wanted in the world and be it can buy food for me to survive.</p>
+                <p className="text-center">Organization: Describes the layout of the periodic table by groups (vertical) and periods (horizontal), including the s, p, d, f blocks.</p>
+                <h6>Periodic trends</h6>
+                <p className="text-center">Atomic Radius: Increases down, decreases right.</p>
+                <p className="text-center">Ionization Energy & Electronegativity: Generally increase up and to the right.</p>
+                <p className="text-center">Effective Nuclear Charge (ENC): The driving force behind these trends.</p>
             </div>
-        
+            <hr></hr>
+            <div className="flex flex-wrap">
+                <h6 className="text-4xl text-center">Ionic Compounds and Metals</h6>
+                <img src="https://tse4.mm.bing.net/th/id/OIP.Ia3dqYo0pQArdg_pQS-WMAHaE7?rs=1&pid=ImgDetMain" alt="$$$" width="500" height="300"></img>
+                <p className="text-center">Ions: Atoms lose or gain electrons to satisfy the Octet Rule (having 8 valence electrons).</p>
+                <p className="text-center">Ionic Bonding: Occurs between metals and nonmetals via electron transfer, resulting in a crystal lattice structure.</p>
+                <p className="text-center">Metallic Bonding: Described as a "sea of electrons" which explains why metals are conductive, malleable, and lustrous.</p>
+                <p className="text-center">Naming: Covers basic nomenclature for ionic compounds (Sodium Chloride ans NaCl).</p>
+            </div>
+            <hr></hr>
+            <div className="flex flex-wrap">
+                <h6 className="text-4xl text-center">Covalent Bonding</h6>
+                <img src="https://tse4.mm.bing.net/th/id/OIP.Ia3dqYo0pQArdg_pQS-WMAHaE7?rs=1&pid=ImgDetMain" alt="$$$" width="500" height="300"></img>
+                <p className="text-center">Covalent Bonds: Occurs when nonmetals share electrons. Includes single, double, and triple bonds.</p>
+                <p className="text-center">Lewis Structures: Diagrams showing how atoms bond and where lone pairs sit. It notes exceptions like incomplete octets and expanded octets.</p>
+                <p className="text-center">VSEPR Theory: Explains molecular shapes (Linear, Trigonal Planar, Tetrahedral) based on electron repulsion.</p>
+                <p className="text-center">Intermolecular Forces (IMF): Ranks forces from weakest (London Dispersion) to strongest (Hydrogen Bonding).</p>
+            </div>
+            <hr></hr>
+            <div className="flex flex-wrap">
+                <h6 className="text-4xl text-center">Chemical Reactions</h6>
+                <img src="https://tse4.mm.bing.net/th/id/OIP.Ia3dqYo0pQArdg_pQS-WMAHaE7?rs=1&pid=ImgDetMain" alt="$$$" width="500" height="300"></img>
+                <p className="text-center">Basics: How to write and balance equations to satisfy the Law of Conservation of Mass.</p>
+                <p className="text-center">Reaction Types: Classifies reactions into five categories: Synthesis, Combustion, Decomposition, Single Replacement, and Double Replacement.</p>
+                <p className="text-center">Aqueous Chemistry: Focuses on substances dissolved in water (the solvent), explaining precipitates (solids formed in a liquid) and how ions behave in solution.</p>
+            </div>
         </div>
     );
 
 }
+
